@@ -1,6 +1,6 @@
 # Chat Space App
 
-This repository contains a realtime chat application built with React on the front-end and NodeJS + Socket.io web socket library on the back-end.
+This repository contains a realtime chat application built with React on the front-end and NodeJS + Socket.io web socket library on the back-end - https://github.com/sofia1701/react-chat-app-server
 
 Below , you'll find a screenshot of the app rendering both in mobile and desktop.
 
